@@ -1,0 +1,39 @@
+{% extends "base.html" %}
+
+{% block hero %}
+    <script async defer src="https://buttons.github.io/buttons.js"></script>
+    <section class="text-center">
+        <div class="heading-text" style="font-size: 60px">
+            Numerical Methods in Quantum Chemistry 2025
+        </div>
+        <div class="where-text" style="font-size: 30px">
+            <b>Berlin</b> 18-20 June 2025
+        </div>
+    </section>
+
+    <!--
+    <img class="hero-image" width="30%" type="image/png" src="{{ get_url(path=config.extra.juice_logo_path) }}">
+    --->
+
+    <div class="explore-more text"
+        onclick="document.getElementById('features').scrollIntoView({behavior: 'smooth'})">
+	    <b>Explore More ⇩</b>
+    </div>
+    <style>
+        .hero section {
+            padding: 0 5rem;
+        }
+        @media screen and (max-width: 768px) {
+            .hero section {
+		padding-top: 30rem;
+		padding-bottom: 0rem;
+		padding-right: 2rem;
+		padding-left: 2rem;
+            }
+
+            .hero-image {
+                display: none
+            }
+        }
+    </style> 
+{% endblock hero %}
