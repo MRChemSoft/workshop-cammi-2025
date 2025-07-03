@@ -9,7 +9,7 @@ We are pleased to invite you to **TITLE HERE** workshop.
 
 Some description here....
 
-The workshop will take place from June 18 to June 20, 2025, at Humboldt University’s Adlershof campus in Berlin, Germany.
+The workshop will take place on September 18-19, 2025, at Scuola Normale Superiore, Pisa, Italy.
 
 Chiara Cappelli, Stefano Corni and Luca Frediani
 
