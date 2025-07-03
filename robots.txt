@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: https://mrchemsoft.github.io/nmqc-2025/sitemap.xml
