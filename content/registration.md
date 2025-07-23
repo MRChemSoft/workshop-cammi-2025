@@ -22,7 +22,7 @@ weight = 4
 ## Registration
 To attend the workshop, please fill in the folowing form:
 
-[registration form](https://forms.gle/KdBiLHpzFdkN8jRx9).
+[registration form](https://forms.gle/KdBiLHpzFdkN8jRx9)
 
 IMPORTANT: Deadline for the registration: 31st Aug 2025. Registration to the workshop is free, but due to the limited space available, admittance is  subject to confirmation by the Organizers. You will receive a confirmation email by 3rd Sept 2025.
 
