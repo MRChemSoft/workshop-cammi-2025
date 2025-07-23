@@ -18,4 +18,4 @@ To modify the speaker photo:
 6. [Roald Hoffmann] Cornell (USA)
 7. [Maurizio Persico] Pisa (IT)
 8. [Silvio Pipolo] Lille (FR)
-9. [Vincenzo Schettino]
+9. [Vincenzo Schettino] Firenze (IT)
