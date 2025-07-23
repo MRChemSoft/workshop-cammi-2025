@@ -1,13 +1,10 @@
 +++
-title = "Cammi Workshop Tentative Title...."
+title = "Molecular Properties and Solvation: celebrating the career of Roberto Cammi"
 description = "Welcome!"
 sort_by = "weight"
 insert_anchor_links = "right"
 +++
 
-We are pleased to invite you to **TITLE HERE** workshop. 
-
-Some description here....
 
 The workshop will take place on September 18-19, 2025, at Scuola Normale Superiore, Pisa, Italy.
 
