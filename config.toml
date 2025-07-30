@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://mrchemsoft.github.io/nmqc-2025"
+base_url = "https://mrchemsoft.github.io/workshop-cammi-2025"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
@@ -7,7 +7,7 @@ compile_sass = true
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = true
 
-title = "Numerical Methods in Quantum Chemistry 2025"
+title = "Molecular Properties and Solvation: celebrating the career of Roberto Cammi"
 
 [markdown]
 # Whether to do syntax highlighting
@@ -18,4 +18,4 @@ highlight_code = false
 # Put all your custom variables here
 juice_logo_name = ""
 juice_logo_path = "combined-logo.png"
-repository_url = "https://github.com/MRChemSoft/nmqc-2025"
+repository_url = "https://github.com/MRChemSoft/workshop-cammi-2025"
