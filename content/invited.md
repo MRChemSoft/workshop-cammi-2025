@@ -10,12 +10,12 @@ To modify the speaker photo:
 -->
 
 
-1. [Gianni Cardini] Firenze (Belgium)
-2. [Benoit Champagne] Namur (Belgium)
-3. [Bo Chen] San Sebastian (ES)
-4. [Roberto Corradini] Parma (Italy)
-5. [Masahiro Ehara] Okazaki (JP)
-6. [Roald Hoffmann] Cornell (USA)
-7. [Maurizio Persico] Pisa (IT)
-8. [Silvio Pipolo] Lille (FR)
-9. [Vincenzo Schettino] Firenze (IT)
+1. Gianni Cardini, Firenze (Italy)
+2. Benoit Champagne, Namur (Belgium)
+3. Bo Chen, San Sebastian (Spain)
+4. Roberto Corradini, Parma (Italy)
+5. Masahiro Ehara, Okazaki (Japan)
+6. Roald Hoffmann, Cornell (USA)
+7. Maurizio Persico, Pisa (Italy)
+8. Silvio Pipolo, Lille (France)
+9. Vincenzo Schettino, Firenze (Italy)
