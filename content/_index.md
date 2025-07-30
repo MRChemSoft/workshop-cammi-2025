@@ -1,5 +1,5 @@
 +++
-title = "ABC Molecular Properties and Solvation: celebrating the career of Roberto Cammi"
+title = "Molecular Properties and Solvation: celebrating the career of Roberto Cammi"
 description = "Welcome!"
 sort_by = "weight"
 insert_anchor_links = "right"
