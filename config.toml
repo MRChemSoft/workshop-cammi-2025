@@ -17,5 +17,5 @@ highlight_code = false
 [extra]
 # Put all your custom variables here
 juice_logo_name = ""
-juice_logo_path = "SNScmyn.png"
+juice_logo_path = "SNSbianco.png"
 repository_url = "https://github.com/MRChemSoft/workshop-cammi-2025"
