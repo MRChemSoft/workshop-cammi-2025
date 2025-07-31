@@ -7,7 +7,7 @@ For questions, please contact us at [workshop.rcammi@gmail.com](mailto:workshop.
 
 Scientific committee:
 
-* Chiara Cappelli
-* Stefano Corni
-* Luca Frediani
+* Chiara Cappelli, Scuola Normale Superiore, Pisa, Italy
+* Stefano Corni, Università di Padova & CNR-NANO Modena, Italy
+* Luca Frediani, UiT The Arctic University of Norway, Tromsø, Norway
 
