@@ -7,7 +7,7 @@ For questions, please contact us at [workshop.rcammi@gmail.com](mailto:workshop.
 
 Scientific committee:
 
-* [Chiara Cappelli]
-* [Stefano Corni]
-* [Luca Frediani]
+* Chiara Cappelli
+* Stefano Corni
+* Luca Frediani
 
