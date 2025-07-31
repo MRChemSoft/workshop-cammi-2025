@@ -5,16 +5,12 @@ weight = 1
 
 ## About the meeting
 
-Coming soon...
+The meeting will be held in the Sala Azzurra of the Scuola Normale Superiore, piazza dei Cavalieri 7, Pisa (Italy)
 
 ### Map of the venue
 
-Coming soon...
+[SNS on google maps](https://maps.app.goo.gl/QBNNiLfobTf3H8D29)
 
-## Commute and Public Transport
 
-Coming soon...
 
-## Accommodation
 
-Coming soon...
