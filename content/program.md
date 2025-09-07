@@ -8,7 +8,7 @@ weight = 3
 |          |                    |                                                                                                       |       |      |       |                              |
 | Thursday | Opening            |                                                                                                       | 15:00 | 10   | 15:10 | Sala Azzurra                 |
 |          | Maurizio Persico   | Roberto Cammi: a friend and a scientist                                                               | 15:10 | 30   | 15:40 | Sala Azzurra                 |
-|          | Roberto Corradini  | TBA                                                                                                   | 15:40 | 40   | 16:20 | Sala Azzurra                 |
+|          | Roberto Corradini  | Favouring the Progress of Chemical Sciences at Parma University: the good lessons from Prof. Cammi                                                                                                 | 15:40 | 40   | 16:20 | Sala Azzurra                 |
 |          | Coffeee break      |                                                                                                       | 16:20 | 40   | 17:00 | Sala del Gran Priore         |
 |          | Roald Hoffmann     | High Pressure: A New Playground for Chemical Bonding                                                  | 17:00 | 40   | 17:40 | Videoconference/Sala Azzurra |
 |          | Vincenzo Schettino | Roberto Cammi and Quantum Chemistry in Italy                                                          | 17:40 | 40   | 18:20 | Sala Azzurra                 |
