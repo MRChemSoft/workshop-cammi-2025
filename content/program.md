@@ -12,6 +12,7 @@ weight = 3
 |          | Coffeee break      |                                                                                                       | 16:20 | 40   | 17:00 | Sala del Gran Priore         |
 |          | Roald Hoffmann     | High Pressure: A New Playground for Chemical Bonding                                                  | 17:00 | 40   | 17:40 | Videoconference/Sala Azzurra |
 |          | Vincenzo Schettino | Roberto Cammi and Quantum Chemistry in Italy                                                          | 17:40 | 40   | 18:20 | Sala Azzurra                 |
+|          |                    | Social Dinner                                                                                         | 20:00 |      |    | Grand Hotel Duomo, via S. Maria 94, Pisa |
 |          |                    |                                                                                                       |       |      |       |                              |
 | Friday   | Masahiro Ehara     | From PCM-SAC-CI Method to Inverse Design Approach                                                     | 09:00 | 40   | 09:40 | Videoconference/Sala Azzurra |
 |          | Gianni Cardini     | XP-PCM@UniFi                                                                                          | 09:40 | 40   | 10:20 | Sala Azzurra                 |
